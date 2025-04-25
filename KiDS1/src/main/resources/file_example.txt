@@ -1,0 +1,5 @@
+Belgrade;22.5
+London;15.3
+Paris;18.7
+Boston;20.0
+Tokyo;25.0

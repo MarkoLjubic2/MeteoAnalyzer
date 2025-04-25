@@ -1,0 +1,4 @@
+SCAN --min 10.0 --max 40.0 --letter T --output output1.txt -j job1
+SCAN -m 15.0 --max 28.0 --letter B --output output2.txt --job job2
+SCAN --min -10.0 -M 22.0 --letter P --output output3.txt --job job3
+SCAN --min 10.0 --max 11.0 -l B -o output4.txt -j job4
